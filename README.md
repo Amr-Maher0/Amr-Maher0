@@ -1,103 +1,169 @@
 ```markdown
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Amr Maher
+
+### AI Automation • Robotics • Mechatronics Engineering
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI+Automation+Systems;Creating+AI+Agents;Learning+Robotics;Python+Developer;Always+Building+Something+New" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+## 🚀 About Me
+
+🎓 Mechatronics Engineering Student
+
+📍 Alexandria, Egypt 🇪🇬
+
+🤖 Passionate about Artificial Intelligence, Automation and Robotics
+
+⚡ Currently learning:
+- AI Automation
+- AI Agents
+- Python
+- n8n
+- Robotics
+- Embedded Systems
+
+🎯 Goal:
+> Build intelligent automation systems that connect AI with robotics to solve real-world problems.
+
+🌱 Currently working on expanding my portfolio with practical AI and automation projects.
+
+<br clear="right"/>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
 
 <p>
-Welcome to my GitHub profile! </br>
-I'm <b>Amr Maher</b>, a <b>Mechatronics Engineering Student</b> from
-<img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/>
-<b>Alexandria, Egypt</b>.
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp" />
 </p>
+
+### AI • Automation • Robotics
 
 <p>
-I'm passionate about combining <b>Artificial Intelligence</b>, <b>Automation</b>, and <b>Robotics</b> to build practical solutions that solve real-world problems.
-Currently, I'm focused on learning AI Automation, AI Agents, Python, and Robotics while building projects to strengthen my software engineering skills.
-</p>
-
-<h3>Things I code and build with</h3>
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="n8n" src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
-</p>
-
-<h3>What I'm currently working on</h3>
-
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🚀 Project</b></td>
-      <td><b>📖 Status</b></td>
-      <td><b>🎯 Goal</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>AI Automation Workflows</td>
-      <td>Learning & Building</td>
-      <td>Create business automation using AI Agents and n8n</td>
-    </tr>
-    <tr>
-      <td>Robotics Projects</td>
-      <td>Planning</td>
-      <td>Combine AI with robotics and embedded systems</td>
-    </tr>
-    <tr>
-      <td>Python Development</td>
-      <td>Learning</td>
-      <td>Build automation scripts and AI applications</td>
-    </tr>
-    <tr>
-      <td>Open Source</td>
-      <td>Coming Soon</td>
-      <td>Share useful projects with the community</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3>GitHub Stats</h3>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
-</p>
-
-<h3>Current Goals</h3>
-
-<ul>
-<li>Build production-ready AI Automation systems</li>
-<li>Master AI Agents and LLM integrations</li>
-<li>Develop intelligent robotics projects</li>
-<li>Contribute to open-source software</li>
-<li>Create automation tools that solve real business problems</li>
-</ul>
-
-<h3>Where to find me</h3>
-
-<p>
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<a href="mailto:YOUR_EMAIL" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,raspberrypi" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 </p>
 
 ---
 
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+| Project | Status |
+|---------|--------|
+| 🤖 AI Automation | Learning & Building |
+| 🧠 AI Agents | In Progress |
+| 🐍 Python | Improving Daily |
+| ⚙ Robotics | Planning Projects |
+| 🌐 Open Source | Coming Soon |
+
+---
+
+# 📚 Currently Learning
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai">
+
+<img src="https://img.shields.io/badge/Automation-00599C?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Computer%20Vision-006699?style=for-the-badge">
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-ready AI Automation systems
+- Create AI-powered SaaS tools
+- Develop Robotics projects
+- Contribute to Open Source
+- Master Python
+- Learn ROS
+- Build AI Agents for businesses
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
-<i>"Building the future with AI, Automation, and Robotics."</i>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
+
+---
+
+<div align="center">
+
+## 💡 Quote of the Day
+
+*"The best way to predict the future is to build it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
 ```
